@@ -14,7 +14,7 @@ import (
         "flag"
         "fmt"
 
-        "github.com/jamiealquiza/envy"
+        "github.com/miihael/envy"
 )
 
 func main() {
